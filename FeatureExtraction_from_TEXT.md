@@ -1,3 +1,23 @@
+Some of the feature extraction techniques are described below
+  1. Bag Of Words (BOW)
+  2. N-grams
+  3. Term Frequency (TF) - Inverse Document Frequency (IDF)
+  4. Tfidftransformer vs. Tfidfvectorizer
+
+
+**Bag Of Words (BOW)**
+
+The approach is very simple and flexible, and can be used in many ways for extracting features from documents. it involves two things.
+- Building the vocabulary
+- Counting the occurrence of each word.
+
+Example:
+  Collect data
+
+‘All my cats in a row’,
+‘When my cat sits down, she looks like a Furby toy!’,
+
+
 # Welcome to My Website
 
 This is an example of how you can format content using Markdown on GitHub Pages.
@@ -46,10 +66,9 @@ function sayHello() {
     b. counting the occurrence of each word.
 
 Example:
+  Collect data
 
-    Collect data
-
-‘All my cats in a row’,
+All my cats in a row’,
 ‘When my cat sits down, she looks like a Furby toy!’,
 
     Design Vocabulary
