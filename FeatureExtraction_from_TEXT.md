@@ -223,6 +223,8 @@ So now you may be wondering, why you should use more steps than necessary if you
     - If you need to compute tf-idf scores on documents within your “training” dataset, use Tfidfvectorizer
     - If you need to compute tf-idf scores on documents outside your “training” dataset, use either one, both will work.
 
-
+- [https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html]
+- [https://www.geeksforgeeks.org/tf-idf-model-for-page-ranking/]
+- [https://kavita-ganesan.com/tfidftransformer-tfidfvectorizer-usage-differences/]
 
 
