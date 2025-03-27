@@ -6,7 +6,8 @@ Explore the world of Natural Language Processing and AI Agents, from the basics 
 
 
 ## 📂 Course content
-- [README](README.md)
+
+
 - [Feature Extraction from TEXT](FeatureExtraction_from_TEXT.md)
 - [Natural Language Toolkit](NaturalLanguageToolkit.md)
 
