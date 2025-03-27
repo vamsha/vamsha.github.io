@@ -10,4 +10,4 @@ Explore the world of Natural Language Processing and AI Agents, from the basics 
 - [Feature Extraction from TEXT](FeatureExtraction_from_TEXT.md)
 - [Natural Language Toolkit](NaturalLanguageToolkit.md)
 
-## If you have any questions, feel free to [email](vamshi.430@gmail.com)
+## If you have any questions, feel free to [email](mailto:vamshi.430@gmail.com)
