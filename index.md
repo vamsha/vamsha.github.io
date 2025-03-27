@@ -1,18 +1,13 @@
-Index.md
+# Words to Wisdom: NLP and AI Agents
+
+Welcome to the NLP and AI Agents Journey.
+
+Explore the world of Natural Language Processing and AI Agents, from the basics to Large Language Models.
 
 
----
-title: Welcome to My GitHub Pages
-layout: default
----
-
-# Welcome to My GitHub Pages
-This is a Jekyll-powered GitHub Pages site. Below are some useful documents:
-
-## 📂 Available Markdown Files
+## 📂 Course content
 - [README](README.md)
-- [Guide](docs/guide.md)
-- [Setup Instructions](docs/setup.md)
+- [Feature Extraction from TEXT](FeatureExtraction_from_TEXT.md)
+- [Natural Language Toolkit](NaturalLanguageToolkit.md)
 
----
-*Powered by Jekyll and GitHub Pages.*
+## If you have any questions, feel free to [email](vamshi.430@gmail.com)
