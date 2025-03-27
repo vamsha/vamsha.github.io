@@ -1,5 +1,3 @@
-# Words to Wisdom -  NLP and AI Agents
-
 Welcome to the NLP and AI Agents Journey.
 
 Explore the world of Natural Language Processing and AI Agents, from the basics to Large Language Models.
