@@ -1,15 +1,18 @@
-# AI Agents and NLP Journey
+# NLP Basics to AI Agents with LLM
 
-## Introduction
+# NLP Odyssey: From Basics to AI Agents
 
-This project explores Natural Language Processing (NLP) and AI Agents, starting from basic concepts and extending to the creation of advanced AI models like LLMs (Large Language Models).
+# Unlocking AI: NLP Foundations to LLM Mastery
 
-### Features
+# The NLP Evolution: From Fundamentals to AI Agents
 
-- Basics of NLP
-- Text Preprocessing
-- Training AI Models
+# AI Agents Unleashed: The NLP Journey with LLMs
+
+# From Words to Wisdom: NLP and AI Agents
+
+## [Feature Extraction from TEXT](FeatureExtraction_from_TEXT.md)
+## [Natural Language Toolkit](NaturalLanguageToolkit.md)
 
 ## Contact
 
-For more information, feel free to contact me at [email@example.com](mailto:email@example.com).
+For more information, feel free to [email](mailto:vamshi.430@gmail.com).
