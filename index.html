@@ -3,15 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Words to Wisdom: NLP and AI Agents</title> <!-- Custom title here -->
-    <link rel="stylesheet" href="styles.css"> <!-- Link to a CSS file if needed -->
+    <title>AI Agents and NLP Journey</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> <!-- Load Marked.js from CDN -->
 </head>
 <body>
     <header>
-        <h1>Welcome to the NLP and AI Agents Journey</h1> <!-- Custom header text -->
-    </header>
-    <main>
+        <h1>Welcome to the NLP and AI Agents Journey</h1>
         <p>Explore the world of Natural Language Processing and AI Agents, from the basics to Large Language Models.</p>
+    </header>
+
+    <main id="readme-content">
+        <!-- The Markdown content will be injected here -->
     </main>
+
+    <script>
+        // Fetch the README.md file from the repository (it could be in the same directory)
+        fetch('README.md')
+            .then(response => response.text()) // Get the raw text of the markdown file
+            .then(markdown => {
+                // Convert Markdown to HTML using Marked.js
+                const htmlContent = marked(markdown);
+                // Inject the HTML content into the <main> element
+                document.getElementById('readme-content').innerHTML = htmlContent;
+            })
+            .catch(error => console.error('Error loading README.md:', error));
+    </script>
 </body>
 </html>
