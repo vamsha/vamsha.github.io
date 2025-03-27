@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI Agents and NLP Journey</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> <!-- Load Marked.js from CDN -->
+    <!-- Load Marked.js from CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
     <header>
@@ -18,13 +19,14 @@
     </main>
 
     <script>
-        // Fetch the README.md file from the GitHub repository raw content URL
+        // Fetch the README.md file from the raw GitHub URL
         fetch('https://raw.githubusercontent.com/vamsha/vamsha.github.io/main/README.md')
             .then(response => response.text()) // Get the raw text of the markdown file
             .then(markdown => {
-                // Convert Markdown to HTML using Marked.js
+                // Convert the raw Markdown to HTML using Marked.js
                 const htmlContent = marked(markdown);
-                // Inject the HTML content into the <main> element
+
+                // Inject the converted HTML into the <main> section
                 document.getElementById('readme-content').innerHTML = htmlContent;
             })
             .catch(error => console.error('Error loading README.md:', error));
