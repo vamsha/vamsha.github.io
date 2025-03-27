@@ -18,8 +18,8 @@
     </main>
 
     <script>
-        // Fetch the README.md file from the repository (it could be in the same directory)
-        fetch('README.md')
+        // Fetch the README.md file from the GitHub repository raw content URL
+        fetch('https://raw.githubusercontent.com/vamsha/vamsha.github.io/main/README.md')
             .then(response => response.text()) // Get the raw text of the markdown file
             .then(markdown => {
                 // Convert Markdown to HTML using Marked.js
