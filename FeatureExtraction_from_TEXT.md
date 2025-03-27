@@ -1,3 +1,8 @@
+---
+title: Feature extraction techniques
+layout: default
+---
+
 Some of the feature extraction techniques are described below
   1. Bag Of Words (BOW)
   2. N-grams

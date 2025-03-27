@@ -1,3 +1,8 @@
+---
+title: NLTK
+layout: default
+---
+
 NLTK is a leading platform for building Python programs to work with human language data. Natural Language Processing with Python provides a practical introduction to programming for language processing.A lot of text mining or text analysis things NLTK can do, we will introduce them below.
 
     - Stop words
