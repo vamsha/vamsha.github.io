@@ -7,8 +7,8 @@ Explore the world of Natural Language Processing and AI Agents, from the basics 
 
 ## 📂 Course content
 
-
 - [Feature Extraction from TEXT](FeatureExtraction_from_TEXT.md)
 - [Natural Language Toolkit](NaturalLanguageToolkit.md)
+- [LLM models Are Revolutionizing Industries Today](LLM_Revolution.md)
 
 ## If you have any questions, feel free to [email](mailto:vamshi.430@gmail.com)
