@@ -50,7 +50,7 @@ Transformers work really well with large amounts of data. As they process more a
 
 **3. Text Summarization:** They can take a long piece of text and create a shorter summary, keeping the most important points intact.
 
-**4. Question Answering:** You can ask a transformer a question, and it will use what it’s learned from data to answer, just like we did here!
+**4. Question Answering:** You can ask a transformer a question, and it will use what it’s learned from data to answer.
 
 # The Transformer "Family":
 Since the introduction of transformers, many variations have been created, each designed for different tasks:
