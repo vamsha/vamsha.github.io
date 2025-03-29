@@ -1,3 +1,8 @@
+---
+title: LLM Comparision
+layout: default
+---
+
 |Model | Developer | Parameters | Specialty | Open-Source? | Cost | Efficiency | Accuracy
 |:-----|:------:|:------:|:------:|:------:|:------:|:------:|-----:|
 |GPT-4|OpenAI|Undisclosed|General-purpose AI, better reasoning|No|High|Moderate|Very High|
