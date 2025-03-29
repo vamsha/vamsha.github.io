@@ -149,6 +149,7 @@ Doc 2: Steve teaches at Brown University.
 Doc 3: Data Scientists work on large datasets.
 ```
 **Step 1**: Computing the Term Frequency(tf)
+
 tf for document 1:
 
 ![Screenshot](assets/images/tf_doc_1.png)
