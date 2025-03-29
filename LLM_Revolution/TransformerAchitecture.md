@@ -5,7 +5,7 @@ layout: default
 
 Transformer-based models, which have revolutionized natural language processing tasks, typically follow a general architecture that includes the following components:
 
-![Screenshot](assets/images/Transform_LLM.png)
+![Screenshot](../assets/images/Transform_LLM.png)
 
 # Key Concepts of Transformers:
 
