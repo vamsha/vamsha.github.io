@@ -12,5 +12,6 @@ Explore the world of Natural Language Processing and AI Agents, from the basics 
 - [LLM models Are Revolutionizing Industries Today](LLM_Revolution.md)
     - [LLM Intro](LLM_Revolution/Intro.md)
     - [LLM Comparision](LLM_Revolution/LLM_compare.md)
+    - [Transformer Architecture](LLM_Revolution/TransformerAchitecture.md)
 
 ## If you have any questions, feel free to [email](mailto:vamshi.430@gmail.com)
