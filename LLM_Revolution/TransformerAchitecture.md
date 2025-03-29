@@ -7,6 +7,41 @@ Transformer-based models, which have revolutionized natural language processing 
 
 ![Screenshot](../assets/images/Transform_LLM.png)
 
+# Transformer Architecture Diagram Breakdown:
+
+**1. Input Embeddings:**
+
+The input (e.g., a sentence) is first converted into embeddings (numerical representations of the words or tokens). Each word or token is mapped to a vector.
+
+**2. Positional Encoding:**
+
+Since transformers process input in parallel (rather than sequentially), they need a way to understand the order of words. Positional encodings are added to the embeddings to give the model information about the position of each word in the sentence.
+
+**3. Encoder:**
+
+The encoder processes the input in parallel using multiple layers (usually 6–12 layers). Each layer consists of:
+
+- Self-Attention Mechanism: Helps the model focus on different words in the sentence, allowing it to understand context (e.g., understanding that "bank" refers to a financial institution or a river bank).
+
+- Feedforward Neural Networks: After attention, the information is passed through a feedforward neural network, allowing further processing.
+
+- Layer Normalization & Residual Connections: These ensure stable training and help the model retain useful information.
+
+**4. Decoder:**
+
+The decoder is similar to the encoder but with an additional attention mechanism:
+
+- Masked Self-Attention: This ensures that when the model is generating text (e.g., translating or answering questions), it doesn't cheat by looking ahead in the sequence.
+
+- Cross-Attention: Here, the decoder attends to the output of the encoder, helping it focus on relevant parts of the input when generating the output.
+
+- Feedforward Neural Networks & Layer Normalization: Similar to the encoder, after the attention mechanisms, the data is passed through a feedforward network for further processing.
+
+**5. Output Layer:**
+
+The decoder generates the output sequence, typically using a softmax function to predict the next word or token. In tasks like machine translation, this would be the translated text; in text generation, it’s the next part of a sentence.
+
+
 # Key Concepts of Transformers:
 
 **1. Self-Attention (The Magic of Transformers):** The most important concept behind transformers is self-attention. This is a process that helps the model understand which words in a sentence are most important to each other. Here's how it works:
