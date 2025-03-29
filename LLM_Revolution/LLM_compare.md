@@ -7,7 +7,7 @@ layout: default
 |:-----|:------:|:------:|:------:|:------:|:------:|:------:|-----:|
 |GPT-4|OpenAI|Undisclosed|General-purpose AI, better reasoning|No|High|Moderate|Very High|
 |GPT-3.5|OpenAI|175B|Text generation, chatbots|No|Moderate|Moderate|High|
-|BERT|Google|340M (largest)|NLP understanding, context awareness|Yes|Free|High|High|
+|BERT|Google|340M |NLP understanding, context awareness|Yes|Free|High|High|
 |LaMDA|Google|Undisclosed|Open-ended conversations|No|High|High|High|
 |Claude|Anthropic|Undisclosed|Safety-focused chatbot|No|High|High|High|
 |Gopher|DeepMind|280B|General NLP tasks|No|High|Moderate|High|
@@ -15,6 +15,8 @@ layout: default
 |PaLM|Google|540B|Multitasking, few-shot learning|No|Very High|Moderate|High|
 |LLaMA 2|Meta AI|7B - 65B|Open-source|research model|Yes|Free|High|Moderate|
 |Mistral 7B|Mistral AI|7B|Lightweight but high-performance|Yes|Free|Very|High|Moderate|
+
+
 
 - **OpenAI’s models (GPT-3, GPT-4):** Best for general-purpose AI applications but are closed-source.
 -	**BERT, LLaMA, Mistral 7B:** Open-source and widely used for research.
