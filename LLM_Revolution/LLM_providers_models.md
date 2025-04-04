@@ -6,7 +6,7 @@ layout: default
 As of Today, many companies and organizations are actively developing large language models (LLMs), with a range of open-source and proprietary models available in the market. Here’s an overview of the leading LLM providers, their models, and whether they are open source or not:
 
 |Provider|Model|Open Source|Cost|Offline/Online|Best Use Case|Example Use Case|
-|:-----|:------:|:------:|:------:|:------:|:------:|:------:|-----:|
+|:-----|:------:|:------:|:------:|:------:|:------:|-----:|
 |**OpenAI**|GPT-4, GPT-3.5|No|API-based, pricing depends on token usage|Online|Complex conversational AI, creative writing, coding assistance, and research.|ChatGPT for customer support, Codex for code generation, GPT-4 for research assistance.|
 |**Anthropic**|Claude 1, Claude 2, Claude 3|No|API-based, pricing based on usage|Online|Safe, ethical AI for human-like interactions, customer support, and task automation.|Claude for ethical content moderation, chatbots in enterprise, and virtual assistants.|
 |**Google**|DeepMind|Gemini (Bard), PaLM|No (Gemini) / Yes (PaLM)|Cloud-based, usage-based pricing|Online|Conversational agents, information retrieval, and research-heavy applications.|Bard for search engine-like queries, PaLM for multilingual conversation systems.|
