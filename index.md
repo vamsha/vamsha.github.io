@@ -11,7 +11,7 @@ Explore the world of Natural Language Processing and AI Agents, from the basics 
 - [Natural Language Toolkit](NaturalLanguageToolkit.md)
 - [LLM models Are Revolutionizing Industries Today](LLM_Revolution.md)
     - [LLM Intro](LLM_Revolution/Intro.md)
-    - [LLM Comparision](LLM_Revolution/LLM_providers_models.md)
+    - [LLM Comparision](LLM_Revolution/LLM_compare.md)
     - [Transformer Architecture](LLM_Revolution/TransformerAchitecture.md)
     - [AI Frameworks in Market](LLM_Revolution/Frameworks.md)
 
