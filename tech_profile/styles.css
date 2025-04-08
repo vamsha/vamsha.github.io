@@ -70,29 +70,35 @@ header p {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.skills-wrapper {
     display: flex;
     justify-content: space-between;
 }
 
-#skills .column {
-    width: 48%; /* each column will take up 48% of the available width */
+.column {
+    width: 48%; /* Each column takes up 48% of the container width */
 }
 
 #skills ul {
-    list-style: none;
+    list-style: none; /* Remove default bullets */
+    padding-left: 20px; /* Adjust padding for the custom bullets */
 }
 
 #skills li {
+    position: relative;
     margin: 10px 0;
     font-size: 1.1rem;
 }
 
 #skills li::before {
-    content: '• '; /* Custom bullet point */
-    color: #2d3748; /* Dark bullet color */
-    font-size: 1.5rem; /* Adjust size of bullet */
+    content: '•'; /* Custom bullet point */
+    position: absolute;
+    left: -20px; /* Adjust the position of the bullet */
+    font-size: 1.5rem; /* Adjust bullet size */
+    color: #2d3748; /* Bullet color */
 }
-
 
 /* GitHub Section */
 #github {
