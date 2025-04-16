@@ -1,8 +1,3 @@
----
-layout: default
-title: Words to Wisdom
----
-
 # Words to Wisdom -  NLP and AI Agents
 
 Welcome to the NLP and AI Agents Journey.
