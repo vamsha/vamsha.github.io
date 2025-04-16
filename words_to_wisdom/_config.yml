@@ -1,5 +1,3 @@
-title: Words to Wisdom
-description: NLP and AI Agents Journey
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman  # You can use any supported theme
 markdown: GFM
 highlighter: rouge
