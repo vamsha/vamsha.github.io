@@ -199,7 +199,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
       
-      - layout: top-right
+      - layout: right
         title: CDAC
         sub_title: PG Diploma in Embedded system design
         caption: 2011-2012
@@ -208,7 +208,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
       
-      - layout: top-right
+      - layout: right
         title: JNTU-Hyderabad
         sub_title:  BE in Electronics and Communications
         caption: 2007-2011
