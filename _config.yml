@@ -81,38 +81,43 @@ content:
           
           •	Python, Scala, SQL and other programming languages
 
-  - title: Professional Experience # Title for the section
+  - title: Personal Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: InsightX
-        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: EmirateNBD
-        # additional_links:
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
+        title: Words to Wisdom - NLP and AI Agents
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
         description: | # this will include new lines to allow paragraphs
-          •	Led the design and implementation of end-to-end <mark>data pipelines</mark> that enable seamless data flow from source systems to analytical reports, ensuring high performance, scalability, and reliability.
-          
-          •	Built and deployed <mark>analytical solutions</mark> within the AACOE department, driving strategic decision-making by delivering high-quality, actionable insights from data.
-          
-          •	Played a pivotal role in integrating <mark>MLOps</mark> practices into the pipeline, ensuring smooth deployment and continuous monitoring of machine learning models.
-          
-          •	Specialized in advanced <mark>data analysis</mark>, identifying trends, patterns, and anomalies to provide insights that support business growth and operational efficiency.
-          
-          •	Currently working on buiding <mark>MVPs for Generative AI (Gen AI) and Large Language Models (LLMs)</mark>, focusing on explainability & product search. 
-          
-          •	Actively involved in the <mark>implementation of Agentic AI</mark> in UAT, developing systems that enable <mark>auto explainability & report generation</mark>.
+          Language is no longer just for communication—it's becoming the interface to intelligent systems. 
+          In this blog, we explore how Natural Language Processing (NLP) and AI agents work together to bridge the gap between human intent and machine understanding.
+          From parsing syntax and semantics to building context-aware agents that act on user input, NLP is evolving rapidly.
+          With advancements in transformer models and intent-driven architectures, AI agents are now capable of generating, reasoning, and acting in real time. 
+          Curious how this works under the hood? Read on to uncover the tech that turns words into wisdom.
+      
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: RGen – Natural Language to SQL Engine (2019)
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
+        description: | # this will include new lines to allow paragraphs
+          Built an internal tool, RGen, to convert natural language queries into SQL and execute them across multiple databases via custom connectors.
+          Developed in 2019—well before LLMs and AI agents were mainstream—RGen used rule-based NLP and intent mapping to enable non-technical users to query data conversationally.
+          Designed for compatibility with MySQL, Oracle, and PostgreSQL, it reduced dependency on technical teams and improved data accessibility.
+          The tool demonstrated early innovation in AI-driven data interaction and laid the groundwork for later conversational analytics efforts.
 
-  - title: Experience
+  - title: Professional Experience
     layout: list
     content:
       - layout: right
@@ -121,7 +126,7 @@ content:
         caption: January 2023 - present
         link: https://www.emiratesnbd.com/en
         quote: >
-          Currently working in the AACOE department, contributing to the creation of analytical solutions that empower data-driven decision-making. Experienced in building Minimum Viable Products (MVPs) and Proof of Concepts (POCs) for Generative AI (Gen AI), Large Language Models (LLMs), and Agentic AI. Strong background in MLOps integration, with a focus on embedding machine learning operations into production-grade systems for continuous optimization and deployment.
+          Currently working in the <mark>AACOE department</mark>, contributing to the creation of <mark>analytical solutions</mark> that empower data-driven decision-making. Experienced in building <mark>Minimum Viable Products (MVPs)</mark> and <mark>Proof of Concepts (POCs)</mark> for <mark>Generative AI (Gen AI), Large Language Models (LLMs), and Agentic AI</mark>. Strong background in <mark>MLOps</mark> integration, with a focus on embedding machine learning operations into production-grade systems for continuous optimization and deployment.
         description: | # this will include new lines to allow paragraphs
           •	Led the design and implementation of end-to-end data pipelines that enable seamless data flow from source systems to analytical reports, ensuring high performance, scalability, and reliability.
           
