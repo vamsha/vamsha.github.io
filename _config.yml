@@ -177,7 +177,7 @@ content:
           
           •	Experienced in performance tuning of Spark Applications by analyzing job, data and spark parameter levels.
       
-      - layout: right
+      - layout: full
         table:
           rows:
             - ["Jan 2023 – present", "Manager, data Engineering", "EmiratesNBD - Dubai"]
