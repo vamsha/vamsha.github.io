@@ -77,10 +77,15 @@ content:
           Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
         description: | # this will include new lines to allow paragraphs
           •	Led the design and implementation of end-to-end <mark>data pipelines</mark> that enable seamless data flow from source systems to analytical reports, ensuring high performance, scalability, and reliability.
+          
           •	Built and deployed <mark>analytical solutions</mark> within the AACOE department, driving strategic decision-making by delivering high-quality, actionable insights from data.
+          
           •	Played a pivotal role in integrating <mark>MLOps</mark> practices into the pipeline, ensuring smooth deployment and continuous monitoring of machine learning models.
+          
           •	Specialized in advanced <mark>data analysis</mark>, identifying trends, patterns, and anomalies to provide insights that support business growth and operational efficiency.
+          
           •	Currently working on buiding <mark>MVPs for Generative AI (Gen AI) and Large Language Models (LLMs)</mark>, focusing on explainability & product search. 
+          
           •	Actively involved in the <mark>implementation of Agentic AI</mark> in UAT, developing systems that enable <mark>auto explainability & report generation</mark>.
 
   - title: Experience
