@@ -89,9 +89,9 @@ content:
                       # other value (or no value) means no border will be displayed
         title: AIAgents
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: AIAgents Github page for project
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/vamsha/AIAgents
         # quote: >
         #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
         description: | # this will include new lines to allow paragraphs
