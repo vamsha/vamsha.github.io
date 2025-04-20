@@ -87,6 +87,23 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
+        title: AIAgents
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
+        description: | # this will include new lines to allow paragraphs
+          I'm **exploring/building AI agents** capable of converting natural language queries into SQL statements.
+          This involves leveraging large language models (LLMs) to understand user intent and translate it into accurate database queries.
+          The goal is to make data access more intuitive—enabling even non-technical users to ask complex questions (like “What were the top 5 selling products last month?”)
+          and get results directly from a database, without writing any code.
+          It’s a fascinating space at the intersection of NLP, databases, and real-world usability.
+      
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: Words to Wisdom - NLP and AI Agents
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -96,7 +113,7 @@ content:
         #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
         description: | # this will include new lines to allow paragraphs
           Language is no longer just for communication—it's becoming the interface to intelligent systems. 
-          In this blog, we explore how Natural Language Processing (NLP) and AI agents work together to bridge the gap between human intent and machine understanding.
+          **In this blog**, we explore how Natural Language Processing (NLP) and AI agents work together to bridge the gap between human intent and machine understanding.
           From parsing syntax and semantics to building context-aware agents that act on user input, NLP is evolving rapidly.
           With advancements in transformer models and intent-driven architectures, AI agents are now capable of generating, reasoning, and acting in real time. 
           Curious how this works under the hood? Read on to uncover the tech that turns words into wisdom.
