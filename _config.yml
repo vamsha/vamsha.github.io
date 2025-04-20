@@ -64,13 +64,21 @@ content:
         border: weak
         description: |
           •	Big Data Ecosystem (Hadoop, Spark, Kafka, Hive, Airflow etc.)
+
           •	Data Analysis & Data Visualization (Python , Tableau, Power BI , R)
+          
           •	Data Engineering & ETL Pipeline Design
+          
           •	Generative AI (Gen AI) & Large Language Models (LLMs)
+          
           •	Agentic AI Implementation
+          
           •	MLOps (Docker, Jenkins, CI-CD) & Model Deployment
+          
           •	Data Warehousing & Cloud Technologies (AWS, Azure)
+          
           •	Advanced SQL & NoSQL Databases
+          
           •	Python, Scala, SQL and other programming languages
 
   - title: Professional Experience # Title for the section
