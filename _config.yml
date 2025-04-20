@@ -81,6 +81,7 @@ content:
           
           •	Python, Scala, SQL and other programming languages
 
+content1:
   - title: Personal Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -136,6 +137,7 @@ content:
           Designed for compatibility with MySQL, Oracle, and PostgreSQL, it reduced dependency on technical teams and improved data accessibility.
           The tool demonstrated early innovation in AI-driven data interaction and laid the groundwork for later conversational analytics efforts.
 
+content:
   - title: Professional Experience
     layout: list
     content:
