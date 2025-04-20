@@ -111,6 +111,7 @@ content:
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         # quote: >
         #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
+        video: "assets/videos/RGen.mp4"
         description: | # this will include new lines to allow paragraphs
           Built an internal tool, RGen, to convert natural language queries into SQL and execute them across multiple databases via custom connectors.
           Developed in 2019—well before LLMs and AI agents were mainstream—RGen used rule-based NLP and intent mapping to enable non-technical users to query data conversationally.
