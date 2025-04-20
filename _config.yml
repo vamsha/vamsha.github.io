@@ -134,6 +134,25 @@ content:
           •	Currently working on buiding MVPs for Generative AI (Gen AI) and Large Language Models (LLMs), focusing on explainability & product search. 
           
           •	Actively involved in the implementation of Agentic AI in UAT, developing systems that enable auto explainability & report generation.
+      
+      - layout: right
+        title: DBS 
+        sub_title: Assistant Vice President
+        caption: November 2019 - December 2022.
+        link: https://www.dbs.com.sg/index/default.page
+        quote: >
+          Worked as AVP, majorly responsible for building enterprise platform (ADA).
+        description: | # this will include new lines to allow paragraphs
+          •	Designed and implemented enterprise-ready platform (ADA) using open source technologies, ensuring consistent data flow, quality, and security from source systems to reporting dashboards.
+          
+          •	Applied deep expertise in the Big Data ecosystem to build robust solutions that process large datasets and enable insightful reporting.
+          
+          •	Built In-house ad-on features to Apache Airflow opensource. (Dependency viewer & Batch job runner on Apache airflow).
+          
+          •	Built observability for cluster monitoring and alerts generation using ELK & Grafana.
+          
+          •	Experienced in performance tuning of Spark Applications by analyzing job, data and spark parameter levels.
+
 
   - title: Education
     layout: list
