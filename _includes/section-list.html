@@ -24,12 +24,16 @@
         <p class="quote">{{ item.quote }}</p>
       {%- endif -%}
       {{ item.description | strip | markdownify }}
+
+      {%- if item.video_url -%}
+        <div class="video">
+          <video controls width="100%">
+            <source src="{{ item.video_url }}" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+      {%- endif -%}
+
     </div>
-  </div>
-  <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
-    {%- if item.video -%}
-      <p class="video">{{ item.video }}</p>
-    {%- endif -%}
-    {{ item.description | strip | markdownify }}
   </div>
 {% endfor %}
