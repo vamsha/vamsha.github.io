@@ -176,6 +176,17 @@ content:
           •	Built observability for cluster monitoring and alerts generation using ELK & Grafana.
           
           •	Experienced in performance tuning of Spark Applications by analyzing job, data and spark parameter levels.
+      
+      - layout: right
+        table:
+          rows:
+            - ["Jan 2023 – present", "Manager, data Engineering", "EmiratesNBD - Dubai"]
+            - ["Nov 2019 – Dec 2022", "Assistant Vice President", "DBS Bank Ltd. – Singapore"]
+            - ["April 2019 – Oct 2019", "Technical Lead – AI", "Genesys - India"]
+            - ["Mar 2016 – Apr 2019", "Technical Lead – Bigdata", "Kogentix Pvt. Ltd."]
+            - ["Nov 2015 – Feb 2016", "Senior Software Engineer", "Teradata Pvt. Ltd. – India"]
+            - ["April 2012 – Oct 2015", "Senior Software Engineer", "Rockwell Collins Pvt. Ltd. – India"]
+
 
 
   - title: Education

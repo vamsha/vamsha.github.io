@@ -40,6 +40,31 @@
         </div>
       {%- endif -%}
 
+      {%- if item.table -%}
+        <div class="table-wrapper" style="overflow-x: auto; margin-top: 20px;">
+          <table class="table table-bordered table-striped">
+            {%- if item.table.headers -%}
+              <thead>
+                <tr>
+                  {% for header in item.table.headers %}
+                    <th>{{ header }}</th>
+                  {% endfor %}
+                </tr>
+              </thead>
+            {%- endif -%}
+            <tbody>
+              {% for row in item.table.rows %}
+                <tr>
+                  {% for cell in row %}
+                    <td>{{ cell }}</td>
+                  {% endfor %}
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      {%- endif -%}
+
     </div>
   </div>
 {% endfor %}
