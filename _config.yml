@@ -52,7 +52,7 @@ linkedin_username: vamshavardhan-reddy
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /assets/images/proile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Results-driven <mark>Data AI Engineer</mark> with over <mark>13 years of experience<mark> in delivering cutting-edge data solutions.
+  Results-driven <mark>Data AI Engineer</mark> with over <mark>13 years of experience</mark> in delivering cutting-edge data solutions.
   Expertise spans across the <mark>Big Data ecosystem</mark>, where I have been involved in designing and implementing scalable, enterprise-ready data pipelines and building <mark>advanced analytical solutions</mark>.
   Adept at <mark>data analysis</mark>, I am skilled in extracting valuable insights from complex datasets and transforming them into actionable business intelligence.
 
