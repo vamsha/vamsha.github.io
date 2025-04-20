@@ -91,9 +91,10 @@ content:
         additional_links:
           - title: AIAgents Github page for project
             icon: fab fa-github
-            url: https://github.com/vamsha/AIAgents
+            url: https://github.com/vamsha/AIAgents/tree/main/nlq_to_sql_agent
         # quote: >
         #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
+        video: assets/images/frontend.png
         description: | # this will include new lines to allow paragraphs
           I'm **exploring/building AI agents** capable of converting natural language queries into SQL statements.
           This involves leveraging large language models (LLMs) to understand user intent and translate it into accurate database queries.
