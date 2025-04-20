@@ -116,14 +116,25 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: EmirateNBD 
+        sub_title: Manager, Data Engineer.
+        caption: January 2023 - present
+        link: https://www.emiratesnbd.com/en
         quote: >
-          Short description of the company (optional)
+          Currently working in the AACOE department, contributing to the creation of analytical solutions that empower data-driven decision-making. Experienced in building Minimum Viable Products (MVPs) and Proof of Concepts (POCs) for Generative AI (Gen AI), Large Language Models (LLMs), and Agentic AI. Strong background in MLOps integration, with a focus on embedding machine learning operations into production-grade systems for continuous optimization and deployment.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          •	Led the design and implementation of end-to-end data pipelines that enable seamless data flow from source systems to analytical reports, ensuring high performance, scalability, and reliability.
+          
+          •	Built and deployed analytical solutions within the AACOE department, driving strategic decision-making by delivering high-quality, actionable insights from data.
+          
+          •	Played a pivotal role in integrating MLOps practices into the pipeline, ensuring smooth deployment and continuous monitoring of machine learning models.
+          
+          •	Specialized in advanced data analysis, identifying trends, patterns, and anomalies to provide insights that support business growth and operational efficiency.
+          
+          •	Currently working on buiding MVPs for Generative AI (Gen AI) and Large Language Models (LLMs), focusing on explainability & product search. 
+          
+          •	Actively involved in the implementation of Agentic AI in UAT, developing systems that enable auto explainability & report generation.
+
   - title: Education
     layout: list
     content:
