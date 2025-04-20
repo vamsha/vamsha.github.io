@@ -193,9 +193,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      When I'm not working on tech projects or learning something new, you’ll most likely find me unwinding with a good **movie—popcorn** is a must!
+      I have a passion for travel and love exploring new places, cultures, and cuisines.
+      **Quality time with family** is also really important to me, whether it’s playing with the kids, going on weekend outings, or just spending time together at home. 
+      I believe a well-balanced life fuels creativity and keeps me energized for the challenges of the tech world.
 
 # Footer
 footer_show_references: true
