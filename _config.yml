@@ -6,11 +6,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Pavani Dhareddy
-title: Founder of Trustpoint Realty
-email: dhareddypavani1995@gmail.com
+name: Vamshavardhan Reddy Kotha
+title: DATA AI ENGINEER
+email: vamshi.430@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +971-543592653
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -20,13 +20,13 @@ darkmode: false
 
 # Social links
 # twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  vamsha
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: dhareddy-pavani
+linkedin_username: vamshavardhan-reddy
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -50,15 +50,11 @@ linkedin_username: dhareddy-pavani
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: /assets/images/proile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Results-driven <mark>Data AI Engineer</mark> with over <mark>13 years of experience<mark> in delivering cutting-edge data solutions.
+  Expertise spans across the <mark>Big Data ecosystem</mark>, where I have been involved in designing and implementing scalable, enterprise-ready data pipelines and building <mark>advanced analytical solutions</mark>.
+  Adept at <mark>data analysis</mark>, I am skilled in extracting valuable insights from complex datasets and transforming them into actionable business intelligence.
 
 content:
   - title: Projects # Title for the section
