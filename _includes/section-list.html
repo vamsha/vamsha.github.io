@@ -40,7 +40,7 @@
         </div>
       {%- endif -%}
 
-      {%- if item.table -%}
+      <!-- {%- if item.table -%}
         <div class="table-wrapper" style="overflow-x: auto; margin-top: 20px;">
           <table class="table table-bordered table-striped">
             {%- if item.table.headers -%}
@@ -57,6 +57,31 @@
                 <tr>
                   {% for cell in row %}
                     <td>{{ cell }}</td>
+                  {% endfor %}
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      {%- endif -%} -->
+
+      {%- if item.table -%}
+        <div class="table-wrapper" style="width: 100%; margin-top: 20px; overflow-x: auto;">
+          <table style="width: 100%; border-collapse: collapse; font-size: 16px;">
+            {%- if item.table.headers -%}
+              <thead style="background-color: #f5f5f5;">
+                <tr>
+                  {% for header in item.table.headers %}
+                    <th style="padding: 10px; border: 1px solid #ddd; text-align: left;">{{ header }}</th>
+                  {% endfor %}
+                </tr>
+              </thead>
+            {%- endif -%}
+            <tbody>
+              {% for row in item.table.rows %}
+                <tr>
+                  {% for cell in row %}
+                    <td style="padding: 10px; border: 1px solid #ddd;">{{ cell }}</td>
                   {% endfor %}
                 </tr>
               {% endfor %}
