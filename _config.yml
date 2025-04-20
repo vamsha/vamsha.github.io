@@ -177,7 +177,7 @@ content:
           
           •	Experienced in performance tuning of Spark Applications by analyzing job, data and spark parameter levels.
       
-      - layout: full
+      - layout: right
         table:
           rows:
             - ["Jan 2023 – present", "Manager, data Engineering", "EmiratesNBD - Dubai"]
@@ -190,7 +190,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: right
         title: IIIT-Hyderabad
         sub_title: Certification course in AI & ML
         caption: 2017-2018
