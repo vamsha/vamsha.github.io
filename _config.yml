@@ -105,15 +105,15 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: RGen – Natural Language to SQL Engine (2019)
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: assets/videos/RGen.mp4
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: assets/videos/RGen.mp4
         # quote: >
         #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
         video: assets/videos/RGen.mp4
         description: | # this will include new lines to allow paragraphs
-          Built an internal tool, RGen, to convert natural language queries into SQL and execute them across multiple databases via custom connectors.
+          RGen, to convert natural language queries into SQL and execute them across multiple databases via custom connectors.
           Developed in 2019—well before LLMs and AI agents were mainstream—RGen used rule-based NLP and intent mapping to enable non-technical users to query data conversationally.
           Designed for compatibility with MySQL, Oracle, and PostgreSQL, it reduced dependency on technical teams and improved data accessibility.
           The tool demonstrated early innovation in AI-driven data interaction and laid the groundwork for later conversational analytics efforts.
@@ -164,13 +164,32 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: IIIT-Hyderabad
+        sub_title: Certification course in AI & ML
+        caption: 2017-2018
         quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Successfully completed the Advanced Certification in AI & Machine Learning from IIIT Hyderabad, encompassing hands-on labs, mentorship, and industry-led workshops.
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
+      
+      - layout: top-right
+        title: CDAC
+        sub_title: PG Diploma in Embedded system design
+        caption: 2011-2012
+        quote: >
+          Completed the Post Graduate Diploma in Embedded Systems and Design (PG-DESD) from C-DAC Bangalore, focusing on embedded C programming, microcontroller interfacing, real-time operating systems, and IoT applications.
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
+      
+      - layout: top-right
+        title: JNTU-Hyderabad
+        sub_title:  BE in Electronics and Communications
+        caption: 2007-2011
+        quote: >
+          Earned a Bachelor of Engineering in Electronics and Communication from JNTU Hyderabad.
+        # description: | # this will include new lines to allow paragraphs
+        #   Description of qualification
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
