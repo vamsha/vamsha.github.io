@@ -12,7 +12,7 @@ email: vamshi.430@gmail.com
 # email_title: Email (Email title override)
 phone: +971-543592653
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+# website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -131,8 +131,8 @@ content:
         #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
         video: assets/videos/RGen.mp4
         description: | # this will include new lines to allow paragraphs
-          RGen, to convert natural language queries into SQL and execute them across multiple databases via custom connectors.
-          Developed in 2019—well before LLMs and AI agents were mainstream—RGen used rule-based NLP and intent mapping to enable non-technical users to query data conversationally.
+          **RGen**, to convert natural language queries into SQL and execute them across multiple databases via custom connectors.
+          **Developed in 2019—well before LLMs and AI agents were mainstream**—RGen used rule-based NLP and intent mapping to enable non-technical users to query data conversationally.
           Designed for compatibility with MySQL, Oracle, and PostgreSQL, it reduced dependency on technical teams and improved data accessibility.
           The tool demonstrated early innovation in AI-driven data interaction and laid the groundwork for later conversational analytics efforts.
 
