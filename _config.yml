@@ -113,8 +113,8 @@ content:
         # quote: >
         #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
         description: | # this will include new lines to allow paragraphs
-          Language is no longer just for communication—it's becoming the interface to intelligent systems. 
-          **In this blog**, we explore how Natural Language Processing (NLP) and AI agents work together to bridge the gap between human intent and machine understanding.
+          **Language is no longer just for communication**—it's becoming the interface to intelligent systems. 
+          **In this blog**, we explore how Natural Language Processing (NLP) and AI agents work together to **bridge the gap between human intent and machine understanding**.
           From parsing syntax and semantics to building context-aware agents that act on user input, NLP is evolving rapidly.
           With advancements in transformer models and intent-driven architectures, AI agents are now capable of generating, reasoning, and acting in real time. 
           Curious how this works under the hood? Read on to uncover the tech that turns words into wisdom.
