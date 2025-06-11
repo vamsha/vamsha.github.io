@@ -87,6 +87,26 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
+        title: OneDataTool
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: assets/videos/RGen.mp4
+        # quote: >
+        #   Building a feature store and advanced analytics models to deliver intelligent, data-driven insights for Enterprise.
+        video: assets/videos/OneDataTool.mp4
+        description: | # this will include new lines to allow paragraphs
+          **OneDataTool** is a unified data platform designed to streamline how modern teams build, manage, and govern data workflows. 
+          It brings together key capabilities — from data integration and pipeline development to governance and AI assistance — into a single, cohesive environment.
+          **Build** Page, users can select inputs, write business logic in SQL, PySpark, or Scala Spark, and define output targets, all in one place.
+          **Lineage** allows tracking at both table and job levels, down to the leaf nodes, enabling complete visibility for SREs, auditors, and compliance teams. 
+          **AI Agents** in OneDataTool enhance productivity by generating, verifying, and explaining SQL logic — with built-in safety checks and user feedback loops.
+          Whether you're a developer, analyst, or compliance lead, OneDataTool eliminates tool switching, reduces operational overhead, and ensures secure, explainable, and scalable data operations 
+          — making it the all-in-one solution for modern data teams.
+    
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: AIAgents
         additional_links:
           - title: AIAgents Github page for project
